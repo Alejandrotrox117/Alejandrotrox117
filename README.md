@@ -31,7 +31,6 @@ Implementation of automation scripts in bash to improve the efficiency of proces
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="![image](https://github.com/user-attachments/assets/364a3a2f-4518-4e15-941d-97251c098706)
-">
+ <img alt="Devil may cry" src="https://github.com/user-attachments/assets/364a3a2f-4518-4e15-941d-97251c098706">
 </picture>
 
