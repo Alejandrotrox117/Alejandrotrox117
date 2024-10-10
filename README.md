@@ -29,3 +29,9 @@ Development of a web and desktop application for order management at Hierba Sant
 Implementation of automation scripts in bash to improve the efficiency of processes in a Linux environment.
 
 
+<p align="center">
+   <h3 align="center">¡Hi 👋! I'm Richard Gil💻</h3>
+</p>
+<p align="center">
+   <img align="center" width="500" src="https://github.com/user-attachments/assets/df1b0e7b-ad7c-45e7-81af-15a0eda50fb3" />
+</p>
